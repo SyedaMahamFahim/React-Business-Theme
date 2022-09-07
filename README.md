@@ -54,7 +54,3 @@ Start the server
 If you have any feedback, please reach out to us at syedamahamfahim@gmail.com
 
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
