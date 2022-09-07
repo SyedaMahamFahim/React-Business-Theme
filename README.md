@@ -1,5 +1,5 @@
 
-# Investor World - Landing Page
+# Xnitia - React (Business Theme)
 
 
 
@@ -7,7 +7,7 @@
 ## Demo
 
 Live URL
-https://pwa-app-in-react.netlify.app/
+https://xnitia-react-website.web.app/
 
 
 ## Authors
