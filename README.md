@@ -49,8 +49,13 @@ Start the server
 ```
 
 
+
+## Screenshots
+
+![App Screenshot](https://user-images.githubusercontent.com/79671325/189000187-15390423-4322-478b-a109-dd1876395dc8.png)
+
+
 ## Feedback
 
 If you have any feedback, please reach out to us at syedamahamfahim@gmail.com
-
 
