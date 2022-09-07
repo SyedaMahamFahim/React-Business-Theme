@@ -7,7 +7,7 @@
 ## Demo
 
 Live URL
-https://xnitia-react-website.web.app/
+https://xnitia.netlify.app/
 
 
 ## Authors
